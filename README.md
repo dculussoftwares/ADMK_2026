@@ -1,4 +1,30 @@
-# Welcome to your Expo app 👋
+# AIADMK Political Party Management Applicaition for 2026
+
+This application will be created and mainteined by our own intrest, Party members inputs needed for improvements. Feel free to contact #Rathathin_Rathangaley
+
+## Add your appilcation expectation on `Issues` tab or [Click here](https://viewer.dculus.com/eBZwzFmuuSmJLV) !  We will start dicuss !!
+
+Form link: https://viewer.dculus.com/eBZwzFmuuSmJLV
+
+![alt text](https://aiadmkmedicalwing.com/assets/images/banner_1.jpg)
+
+
+
+# 2026க்கான அதிமுக அரசியல் கட்சி மேலாண்மை விண்ணப்பம்
+
+இந்த செயலி நமது சொந்த விருப்பத்தால் உருவாக்கப்பட்டு பராமரிக்கப்படும். கழக உறுப்பினர்களின் ஆதரவு மற்றும் உதவிகள் தேவை. வாருங்கள் தயக்கம் இன்றி சேர்ந்து பயணிப்போம் #இரத்தத்தின்_ரத்தங்களே
+
+##உங்கள் கருத்துக்களை `Issues` tab - இல் பதிவிடவும் அல்லது [இங்கே கிளிக் செய்யவும்](https://viewer.dculus.com/eBZwzFmuuSmJLV)! விவாதிப்போம் !!
+
+படிவ இணைப்பு: https://viewer.dculus.com/eBZwzFmuuSmJLV
+
+![alt text](https://aiadmkmedicalwing.com/assets/images/banner_1.jpg)
+
+
+#### Please note, this is not party offical app yet.
+
+
+# Welcome to your ADMK 2026 app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
